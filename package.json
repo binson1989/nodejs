@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/binson1989/nodejs#readme",
   "dependencies": {
-    "request": "^2.75.0"
+    "express": "^4.14.0",
+    "request": "2.75.0"
   }
 }
