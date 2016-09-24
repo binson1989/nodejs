@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "EventEmitters and Piping",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binson1989/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binson1989/nodejs/issues"
+  },
+  "homepage": "https://github.com/binson1989/nodejs#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
