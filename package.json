@@ -4,6 +4,7 @@
   "description": "EventEmitters and Piping",
   "main": "intro.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,7 +18,11 @@
   },
   "homepage": "https://github.com/binson1989/nodejs#readme",
   "dependencies": {
+    "bluebird": "^3.4.6",
     "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.1.0",
+    "pg-promise": "^5.3.3",
     "request": "2.75.0"
   }
 }
